@@ -6,5 +6,6 @@ Finance  A Python-based CLI Personal Finance Management System to track daily ex
 - Category summary
 - Monthly reports
 - Backup system
+
 **How to Run**
 python main.py
